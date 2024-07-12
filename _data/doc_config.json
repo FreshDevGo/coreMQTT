@@ -1,0 +1,9 @@
+{
+  "name": "coreMQTT",
+  "releases": [
+    "v2.3.1"
+  ],
+  "branches": [
+    "main"
+  ]
+}
